@@ -70,9 +70,9 @@ namespace COVIDApp
             return sb.ToString();
         }
 
-        private static IEnumerable<CustomUser> GetRecordsFromDatabaseWithFilter()
+        private static IEnumerable<CountryInfo> GetRecordsFromDatabaseWithFilter()
         {
-            List<CustomUser> clpUsers = new List<CustomUser>() ;
+            List<CountryInfo> clpUsers = new List<CountryInfo>() ;
            
             try
             {
@@ -89,13 +89,13 @@ namespace COVIDApp
                 {
                     JObject clObj = (JObject) JsonConvert.DeserializeObject(clJson);
 
-                    CustomUser clTotals = new CustomUser();
+                    CountryInfo clTotals = new CountryInfo();
                     clTotals.Country = "World";
                     clpUsers.Add(clTotals);
 
                     foreach (var clItr in clObj)
                     {
-                        CustomUser clUser = new CustomUser();
+                        CountryInfo clUser = new CountryInfo();
                         clUser.Country = clItr.Key;
 
                         JToken clLast = clItr.Value.Last();

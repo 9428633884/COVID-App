@@ -1,6 +1,6 @@
 ﻿namespace COVIDApp.Models
 {
-    public class CustomUser
+    public class CountryInfo
     {
         public string Country { get; set; }
         public int TotalCases { get; set; }

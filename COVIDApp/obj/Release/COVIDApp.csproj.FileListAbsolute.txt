@@ -211,3 +211,4 @@ P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.csproj.CoreCompileInputs.cac
 P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.csproj.CopyComplete
 P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.dll
 P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.pdb
+P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.csprojAssemblyReference.cache
