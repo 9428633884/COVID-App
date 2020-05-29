@@ -1,0 +1,213 @@
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\COVIDApp.dll.config
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\COVIDApp.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\COVIDApp.pdb
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Antlr3.Runtime.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\EntityFramework.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\EntityFramework.SqlServer.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Newtonsoft.Json.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Owin.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\System.Web.Optimization.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\System.Web.Providers.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\WebGrease.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\System.Web.Optimization.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Antlr3.Runtime.pdb
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Newtonsoft.Json.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\EntityFramework.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\EntityFramework.SqlServer.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\System.Web.Providers.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.csprojResolveAssemblyReference.cache
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.dll
+C:\Users\VS250405\OneDrive - NCR Corporation\Desktop\Work From Home\COVIDApp-master\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.pdb
+P:\Projects\COVIDApp-master\COVIDApp\bin\COVIDApp.dll.config
+P:\Projects\COVIDApp-master\COVIDApp\bin\COVIDApp.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\COVIDApp.pdb
+P:\Projects\COVIDApp-master\COVIDApp\bin\Antlr3.Runtime.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\AspNet.ScriptManager.bootstrap.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\AspNet.ScriptManager.jQuery.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\EntityFramework.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\EntityFramework.SqlServer.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Google.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Web.Infrastructure.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Newtonsoft.Json.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\Owin.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\System.Web.Optimization.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\System.Web.Providers.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\WebGrease.dll
+P:\Projects\COVIDApp-master\COVIDApp\bin\System.Web.Optimization.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Antlr3.Runtime.pdb
+P:\Projects\COVIDApp-master\COVIDApp\bin\Newtonsoft.Json.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\EntityFramework.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\EntityFramework.SqlServer.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\System.Web.Providers.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Google.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Projects\COVIDApp-master\COVIDApp\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Projects\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.csprojAssemblyReference.cache
+P:\Projects\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.csproj.CoreCompileInputs.cache
+P:\Projects\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.csproj.CopyComplete
+P:\Projects\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.dll
+P:\Projects\COVIDApp-master\COVIDApp\obj\Release\COVIDApp.pdb
+P:\Projects\My COVID Web App\COVIDApp\bin\COVIDApp.dll.config
+P:\Projects\My COVID Web App\COVIDApp\bin\COVIDApp.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\COVIDApp.pdb
+P:\Projects\My COVID Web App\COVIDApp\bin\Antlr3.Runtime.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\AspNet.ScriptManager.bootstrap.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\AspNet.ScriptManager.jQuery.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\EntityFramework.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\EntityFramework.SqlServer.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Google.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Web.Infrastructure.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Newtonsoft.Json.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\Owin.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\System.Web.Optimization.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\System.Web.Providers.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\WebGrease.dll
+P:\Projects\My COVID Web App\COVIDApp\bin\System.Web.Optimization.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Antlr3.Runtime.pdb
+P:\Projects\My COVID Web App\COVIDApp\bin\Newtonsoft.Json.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\EntityFramework.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\EntityFramework.SqlServer.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\System.Web.Providers.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Google.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Projects\My COVID Web App\COVIDApp\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Projects\My COVID Web App\COVIDApp\obj\Release\COVIDApp.csprojAssemblyReference.cache
+P:\Projects\My COVID Web App\COVIDApp\obj\Release\COVIDApp.csproj.CoreCompileInputs.cache
+P:\Projects\My COVID Web App\COVIDApp\obj\Release\COVIDApp.csproj.CopyComplete
+P:\Projects\My COVID Web App\COVIDApp\obj\Release\COVIDApp.dll
+P:\Projects\My COVID Web App\COVIDApp\obj\Release\COVIDApp.pdb
+P:\Projects\COVID App\COVIDApp\bin\COVIDApp.dll.config
+P:\Projects\COVID App\COVIDApp\bin\COVIDApp.dll
+P:\Projects\COVID App\COVIDApp\bin\COVIDApp.pdb
+P:\Projects\COVID App\COVIDApp\bin\Antlr3.Runtime.dll
+P:\Projects\COVID App\COVIDApp\bin\AspNet.ScriptManager.bootstrap.dll
+P:\Projects\COVID App\COVIDApp\bin\AspNet.ScriptManager.jQuery.dll
+P:\Projects\COVID App\COVIDApp\bin\EntityFramework.dll
+P:\Projects\COVID App\COVIDApp\bin\EntityFramework.SqlServer.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Identity.Core.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Cookies.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Facebook.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Google.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.OAuth.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Twitter.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.ScriptManager.MSAjax.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.ScriptManager.WebForms.dll
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Web.Infrastructure.dll
+P:\Projects\COVID App\COVIDApp\bin\Newtonsoft.Json.dll
+P:\Projects\COVID App\COVIDApp\bin\Owin.dll
+P:\Projects\COVID App\COVIDApp\bin\System.Web.Optimization.dll
+P:\Projects\COVID App\COVIDApp\bin\System.Web.Providers.dll
+P:\Projects\COVID App\COVIDApp\bin\WebGrease.dll
+P:\Projects\COVID App\COVIDApp\bin\System.Web.Optimization.xml
+P:\Projects\COVID App\COVIDApp\bin\Antlr3.Runtime.pdb
+P:\Projects\COVID App\COVIDApp\bin\Newtonsoft.Json.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+P:\Projects\COVID App\COVIDApp\bin\EntityFramework.xml
+P:\Projects\COVID App\COVIDApp\bin\EntityFramework.SqlServer.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Identity.Core.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Identity.Owin.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+P:\Projects\COVID App\COVIDApp\bin\System.Web.Providers.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Facebook.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Cookies.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Google.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.Twitter.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+P:\Projects\COVID App\COVIDApp\bin\Microsoft.Owin.Security.OAuth.xml
+P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.csproj.CoreCompileInputs.cache
+P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.csproj.CopyComplete
+P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.dll
+P:\Projects\COVID App\COVIDApp\obj\Release\COVIDApp.pdb
